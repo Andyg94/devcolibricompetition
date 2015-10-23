@@ -24,7 +24,7 @@ public class Main {
         Book book2 = new Book("The Object-Oriented Thought Process", "Mat Vaysfeld", date.getRandomDate());
         Book book3 = new Book("Java EE 7 Essentials", "Arun Gunta", date.getRandomDate());
 
-        // заполняем список нашими книгами
+        // заполняем список книгами
         books.add(book1);
         books.add(book2);
         books.add(book3);
